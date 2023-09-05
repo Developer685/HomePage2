@@ -1,0 +1,22 @@
+.article {
+    margin: 5%;
+}
+
+.article__headline {
+    margin: 20px auto;
+    box-shadow: 1px 1px 7px 1px rgb(41 218 19);
+    border-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    background-color: rgb(41 218 19);
+    text-align: center;
+    height: 60px;
+    padding: 10px;
+    max-width: 1200px;
+}
+
+.article__image {
+    margin: auto;
+    padding: auto;
+    border: solid 3px rgb(41 218 19);
+    max-width: 300px;
+}

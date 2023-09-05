@@ -1,0 +1,23 @@
+.navigation{
+    margin: auto;
+}
+.navigation__list{
+    margin: 0 auto;
+    list-style-type: decimal;
+    margin: 5px;
+    max-width: 1200px;  
+}
+.navigation__link{
+    margin: 0 auto;
+    color: rgb(41 218 19);
+    text-decoration: none;
+    max-width: 1200px;
+}
+.navigation__link:focus {
+    outline: 2px dashed black;
+}
+
+.navigation__link:hover {
+    color: rgb(34, 121, 23);
+    border-bottom: 3px double;
+}
